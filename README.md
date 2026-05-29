@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3000&pause=1000&color=6300DD&center=true&vCenter=true&width=700&lines=Hey%2C+I%27m+Michael+Angelis+%F0%9F%91%8B;Software+Engineer+%26+Builder;Production+AI+systems+that+actually+ship;Athens+%E2%86%92+London)](https://git.io/typing-svg)
 
 <p>
-  <a href="https://linkedin.com/in/michangelis"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/michael-angeles-a6327923a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=michangelis&style=for-the-badge&color=6300DD" />
 </p>
@@ -26,9 +26,7 @@ Started coding at [AUEB](https://www.aueb.gr) (Management Science & Technology, 
 | 2021–2024 | 📚 AUEB degree | 💼 TechIns — 3 production projects, €70k revenue |
 | 2024–2025 | 🏢 Netcompany — only junior picked by Danish HQ | 🤖 Hellas Direct AI Lab — 8-person team, built from scratch |
 | 2025–2026 | 🚀 Hellas Direct — 2000+ claims shipped, DFA 2026 winner | 💊 Mediva-RX — co-founder, national winner, Columbia finalist |
-| Now | 🧠 Building independently | ✈️ Applying to Entrepreneur First London |
-
-Every single role: I end up owning the most important thing in the room.
+| Now | 🧠 Building independently | ✈️ Everything on the line |
 
 ---
 
@@ -192,9 +190,7 @@ Full lifecycle ownership on every project — no handoffs, no specialists to hid
 ## 🔭 Now
 
 - 🤖 Building **Jarvis** — personal AI inference system (local + cloud)
-- ✈️ Applied to **Entrepreneur First London** — looking for a co-founder at the same level
 - 🧠 Building a **Second Brain** — everything documented, building in public
-- 🎤 Presenting at **ACM CAIS 2026** (San Jose, May 2026)
 - 🗽 Presenting at **Columbia University** (Lab 2 Market finalist, June 2026)
 
 ---
