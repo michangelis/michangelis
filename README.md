@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3000&pause=1000&color=6300DD&center=true&vCenter=true&width=700&lines=Hey%2C+I%27m+Michael+Angelis+%F0%9F%91%8B;Software+Engineer+%26+Builder;Production+AI+systems+that+actually+ship;Athens+%E2%86%92+London)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3000&pause=1000&color=6300DD&center=true&vCenter=true&width=700&lines=Hey%2C+I%27m+Michael+Angelis+%F0%9F%91%8B;Founder+of+Night+Engines+%F0%9F%8C%99;Software+Engineer+%26+Builder;Production+AI+systems+that+actually+ship;Athens+%E2%86%92+London)](https://git.io/typing-svg)
 
 <p>
   <a href="https://www.linkedin.com/in/michael-angeles-a6327923a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -11,6 +11,14 @@
 </p>
 
 </div>
+
+---
+
+## 🌙 Night Engines
+
+**[Night Engines](https://nightengines.com)** — I build & operate autonomous agent systems for businesses.
+
+This is the business. Everything below is how I got here.
 
 ---
 
@@ -136,15 +144,31 @@ Full lifecycle ownership on every project — no handoffs, no specialists to hid
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**AI / Agentic**
+**Agent Stack** — runtimes, harnesses & orchestration
 
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white)
+![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-1C1C1C?style=flat-square&logo=python&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-FF6B6B?style=flat-square&logo=typescript&logoColor=white)
 ![Pydantic AI](https://img.shields.io/badge/Pydantic_AI-E92063?style=flat-square&logo=pydantic&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white)
-![GPT-4o](https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)
-![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![Composio](https://img.shields.io/badge/Composio-6C47FF?style=flat-square&logo=composio&logoColor=white)
+
+**Vector DBs & RAG**
+
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![PGLite](https://img.shields.io/badge/PGLite-336791?style=flat-square&logo=postgresql&logoColor=white)
+![HNSW](https://img.shields.io/badge/HNSW-5C3EE8?style=flat-square&logoColor=white)
+![BM25](https://img.shields.io/badge/BM25_Hybrid_Retrieval-1C3C3C?style=flat-square&logoColor=white)
+![Rerankers](https://img.shields.io/badge/Cross--Encoder_Reranking-E92063?style=flat-square&logoColor=white)
+
+**Knowledge Graphs & Agent Memory**
+
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
+![gbrain](https://img.shields.io/badge/gbrain-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Typed Graph](https://img.shields.io/badge/Typed_Knowledge_Graph-6300DD?style=flat-square&logoColor=white)
 
 **Backend & Infra**
 
@@ -153,7 +177,6 @@ Full lifecycle ownership on every project — no handoffs, no specialists to hid
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
@@ -163,10 +186,6 @@ Full lifecycle ownership on every project — no handoffs, no specialists to hid
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 ---
 
@@ -190,7 +209,7 @@ Full lifecycle ownership on every project — no handoffs, no specialists to hid
 ## 🔭 Now
 
 - 🤖 Building **Jarvis** — personal AI inference system (local + cloud)
-- 🧠 Building a **Second Brain** — everything documented, building in public
+- 🧠 Building a **Second Brain** — a self-maintaining, retrieval-native knowledge engine (hybrid vector + typed knowledge graph)
 - 🗽 Presenting at **Columbia University** (Lab 2 Market finalist, June 2026)
 
 ---
