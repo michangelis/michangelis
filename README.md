@@ -93,7 +93,7 @@ Won first place. Then we didn't stop — because that's what happens when you ac
 - 🔧 **Custom OCR engine** — Document AI custom classifier (identifies document type) + fine-tuned extractor per document type → structured output. Handles anything the business receives.
 - 🔌 **MCP server** on top of the claims product — their biggest competitive advantage, now tool-accessible for any LLM integration.
 
-*Scouted directly by founders Emilios Markou and Michalis Antoniou after the IBM hackathon win. Built the team, designed the architecture, shipped to production, became product owner.*
+*Scouted directly by founders, built the team, designed the architecture, shipped to production, became product owner.*
 
 ---
 
